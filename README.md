@@ -1,0 +1,2 @@
+# premium-ux-usability-001-usability-test-script-task-c
+The ux-research-operations tool you'd build yourself — if you had the time.  Pre-built databases, views, and formula fields — ready to duplicate and use. Fully documented: every section explained so you know exactly what to customize.  ## What's Included  - Usability Test Script &amp; Task Completion Rate — fully configured and ready to use - Pre-built
